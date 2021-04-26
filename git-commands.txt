@@ -10,18 +10,18 @@ Description : Essential git commands.
 
 ---GIT BRANCH---
 2. Create branch: branch [branch name] 
-6. See all branches : git branches
-8. Switch to another branch : git checkout [branch name]
-7. Rename current branch: git branch -m [new branch name]
-9. Delete branch: git branch -d [branch name]
+3. See all branches : git branches
+4. Switch to another branch : git checkout [branch name]
+5. Rename current branch: git branch -m [new branch name]
+6. Delete branch: git branch -d [branch name]
 
 ---GIT COMMITS---
-2. Take files to staging area : git add [file name] || git add .
-4. Commit files : git commit -m [commit messages in string]
-3. See commits history  : git log || git log --oneline
+7. Take files to staging area : git add [file name] || git add .
+8. Commit files : git commit -m [commit messages in string]
+9. See commits history  : git log || git log --oneline
 
 ---REMOTE REPOSITORY---
-0. Add remote repository: git remote add origin [repository link]
-5. Push to remote repository : git push -u [remote repository name] [local repository name]
-1. Remove remote repository: git remote rm [repository repository name]
+10. Add remote repository: git remote add origin [repository link]
+11. Push to remote repository : git push -u [remote repository name] [local repository name]
+12. Remove remote repository: git remote rm [repository repository name]
 
