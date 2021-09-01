@@ -1,6 +1,14 @@
 Author: Shamim Bin Nur
 Description : Essential git commands. 
 
+==============GIT CONFIG============
+1. Set global username   : git config --global user.name "username"
+2. Check global username : git config --global user.name
+
+3. Set global email      : git config --global user.email "email.com"
+4. Check global email    : git config --global user.email
+
+
 
 ======== GIT BASIC COMMANDS ========
 
